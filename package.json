@@ -1,0 +1,16 @@
+{
+  "name": "xcodegen-npm",
+  "version": "2.18.0-patch.1",
+  "description": "XcodeGen binary installable via npm",
+  "bin": {
+    "xcodegen": "./bin.js"
+  },
+  "files": [
+    "bin/",
+    "share/",
+    "install.sh"
+  ],
+  "repository": "https://github.com/abdhilabs/xcodegen-npm",
+  "author": "Abdhilabs",
+  "license": "MIT"
+}
